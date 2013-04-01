@@ -1,0 +1,9 @@
+\DeclareFontFamily{JT2}{ablankjm}{}
+\DeclareFontShape{JT2}{ablankjm}{m}{n}{<->ablank-r-jt2}{}
+\DeclareFontShape{JT2}{ablankjm}{m}{it}{<->ssub*ablankjm/m/n}{}
+\DeclareFontShape{JT2}{ablankjm}{m}{sl}{<->ssub*ablankjm/m/n}{}
+\DeclareFontShape{JT2}{ablankjm}{m}{sc}{<->ssub*ablankjm/m/n}{}
+\DeclareFontShape{JT2}{ablankjm}{bx}{n}{<->ssub*ablankjm/m/n}{}
+\DeclareFontShape{JT2}{ablankjm}{bx}{it}{<->ssub*ablankjm/m/n}{}
+\DeclareFontShape{JT2}{ablankjm}{bx}{sl}{<->ssub*ablankjm/m/n}{}
+\DeclareFontShape{JT2}{ablankjm}{bx}{sc}{<->ssub*ablankjm/m/n}{}

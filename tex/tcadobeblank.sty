@@ -1,0 +1,30 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{tcadobeblank}[2013/04/01 v0.0]
+
+\AtBeginDvi{\special{pdf:mapfile pdfm-tcadobeblank.map}}
+
+\renewcommand{\rmdefault}{ablankr}
+\renewcommand{\sfdefault}{ablanks}
+\renewcommand{\ttdefault}{ablankt}
+
+\DeclareSymbolFont{operators}{OT1}{ablankr}{m}{n}
+\DeclareSymbolFont{letters}{OML}{ablankml}{m}{it}
+\DeclareSymbolFont{symbols}{OMS}{ablankms}{m}{n}
+\DeclareSymbolFont{largesymbols}{OMX}{ablankmx}{m}{n}
+\SetSymbolFont{operators}{bold}{OT1}{ablankr}{bx}{n}
+\SetSymbolFont{letters}{bold}{OML}{ablankml}{b}{it}
+\SetSymbolFont{symbols}{bold}{OMS}{ablankms}{b}{n}
+\DeclareMathAlphabet{\mathbf}{OT1}{ablankr}{bx}{n}
+\DeclareMathAlphabet{\mathsf}{OT1}{ablanks}{m}{n}
+\DeclareMathAlphabet{\mathit}{OT1}{ablankr}{m}{it}
+\DeclareMathAlphabet{\mathtt}{OT1}{ablankt}{m}{n}
+\SetMathAlphabet\mathsf{bold}{OT1}{ablanks}{bx}{n}
+\SetMathAlphabet\mathit{bold}{OT1}{ablankr}{bx}{it}
+
+\ifx\mcdefault\@undefined\else
+\renewcommand{\mcdefault}{ablankjm}
+\renewcommand{\gtdefault}{ablankjg}
+\fi
+
+\endinput
+%% EOF

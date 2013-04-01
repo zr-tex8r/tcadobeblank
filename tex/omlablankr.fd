@@ -1,0 +1,9 @@
+\DeclareFontFamily{OML}{ablankr}{}
+\DeclareFontShape{OML}{ablankr}{m}{n}{<->ssub*ablankml/m/it}{}
+\DeclareFontShape{OML}{ablankr}{m}{it}{<->ssub*ablankml/m/it}{}
+\DeclareFontShape{OML}{ablankr}{m}{sl}{<->ssub*ablankml/m/it}{}
+\DeclareFontShape{OML}{ablankr}{m}{sc}{<->ssub*ablankml/m/it}{}
+\DeclareFontShape{OML}{ablankr}{bx}{n}{<->ssub*ablankml/m/it}{}
+\DeclareFontShape{OML}{ablankr}{bx}{it}{<->ssub*ablankml/m/it}{}
+\DeclareFontShape{OML}{ablankr}{bx}{sl}{<->ssub*ablankml/m/it}{}
+\DeclareFontShape{OML}{ablankr}{bx}{sc}{<->ssub*ablankml/m/it}{}

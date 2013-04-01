@@ -1,0 +1,9 @@
+\DeclareFontFamily{OT4}{ablankr}{}
+\DeclareFontShape{OT4}{ablankr}{m}{n}{<->ablank-r-ot4}{}
+\DeclareFontShape{OT4}{ablankr}{m}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{OT4}{ablankr}{m}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{OT4}{ablankr}{m}{sc}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{OT4}{ablankr}{bx}{n}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{OT4}{ablankr}{bx}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{OT4}{ablankr}{bx}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{OT4}{ablankr}{bx}{sc}{<->ssub*ablankr/m/n}{}

@@ -1,0 +1,9 @@
+\DeclareFontFamily{OMS}{ablankr}{}
+\DeclareFontShape{OMS}{ablankr}{m}{n}{<->ssub*ablankms/m/n}{}
+\DeclareFontShape{OMS}{ablankr}{m}{it}{<->ssub*ablankms/m/n}{}
+\DeclareFontShape{OMS}{ablankr}{m}{sl}{<->ssub*ablankms/m/n}{}
+\DeclareFontShape{OMS}{ablankr}{m}{sc}{<->ssub*ablankms/m/n}{}
+\DeclareFontShape{OMS}{ablankr}{bx}{n}{<->ssub*ablankms/m/n}{}
+\DeclareFontShape{OMS}{ablankr}{bx}{it}{<->ssub*ablankms/m/n}{}
+\DeclareFontShape{OMS}{ablankr}{bx}{sl}{<->ssub*ablankms/m/n}{}
+\DeclareFontShape{OMS}{ablankr}{bx}{sc}{<->ssub*ablankms/m/n}{}

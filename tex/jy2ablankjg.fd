@@ -1,0 +1,9 @@
+\DeclareFontFamily{JY2}{ablankjg}{}
+\DeclareFontShape{JY2}{ablankjg}{m}{n}{<->ablank-r-jy2}{}
+\DeclareFontShape{JY2}{ablankjg}{m}{it}{<->ssub*ablankjg/m/n}{}
+\DeclareFontShape{JY2}{ablankjg}{m}{sl}{<->ssub*ablankjg/m/n}{}
+\DeclareFontShape{JY2}{ablankjg}{m}{sc}{<->ssub*ablankjg/m/n}{}
+\DeclareFontShape{JY2}{ablankjg}{bx}{n}{<->ssub*ablankjg/m/n}{}
+\DeclareFontShape{JY2}{ablankjg}{bx}{it}{<->ssub*ablankjg/m/n}{}
+\DeclareFontShape{JY2}{ablankjg}{bx}{sl}{<->ssub*ablankjg/m/n}{}
+\DeclareFontShape{JY2}{ablankjg}{bx}{sc}{<->ssub*ablankjg/m/n}{}

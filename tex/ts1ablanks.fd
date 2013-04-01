@@ -1,0 +1,9 @@
+\DeclareFontFamily{TS1}{ablanks}{}
+\DeclareFontShape{TS1}{ablanks}{m}{n}{<->ablank-r-ts1}{}
+\DeclareFontShape{TS1}{ablanks}{m}{it}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{TS1}{ablanks}{m}{sl}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{TS1}{ablanks}{m}{sc}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{TS1}{ablanks}{bx}{n}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{TS1}{ablanks}{bx}{it}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{TS1}{ablanks}{bx}{sl}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{TS1}{ablanks}{bx}{sc}{<->ssub*ablanks/m/n}{}

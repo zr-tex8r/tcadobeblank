@@ -1,0 +1,9 @@
+\DeclareFontFamily{T2A}{ablankr}{}
+\DeclareFontShape{T2A}{ablankr}{m}{n}{<->ablank-r-t2a}{}
+\DeclareFontShape{T2A}{ablankr}{m}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T2A}{ablankr}{m}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T2A}{ablankr}{m}{sc}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T2A}{ablankr}{bx}{n}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T2A}{ablankr}{bx}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T2A}{ablankr}{bx}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T2A}{ablankr}{bx}{sc}{<->ssub*ablankr/m/n}{}

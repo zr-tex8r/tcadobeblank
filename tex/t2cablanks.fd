@@ -1,0 +1,9 @@
+\DeclareFontFamily{T2C}{ablanks}{}
+\DeclareFontShape{T2C}{ablanks}{m}{n}{<->ablank-r-t2c}{}
+\DeclareFontShape{T2C}{ablanks}{m}{it}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{T2C}{ablanks}{m}{sl}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{T2C}{ablanks}{m}{sc}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{T2C}{ablanks}{bx}{n}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{T2C}{ablanks}{bx}{it}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{T2C}{ablanks}{bx}{sl}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{T2C}{ablanks}{bx}{sc}{<->ssub*ablanks/m/n}{}

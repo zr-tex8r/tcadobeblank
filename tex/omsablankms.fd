@@ -1,0 +1,4 @@
+\DeclareFontFamily{OMS}{ablankms}{\skewchar\font48 }
+\DeclareFontShape{OMS}{ablankms}{m}{n}{<->ablank-r-oms}{}
+\DeclareFontShape{OMS}{ablankms}{b}{n}{<->ssub*ablankms/m/n}{}
+\DeclareFontShape{OMS}{ablankms}{bx}{n}{<->ssub*ablankms/m/n}{}

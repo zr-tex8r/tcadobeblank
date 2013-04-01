@@ -1,0 +1,4 @@
+\DeclareFontFamily{OML}{ablankml}{\skewchar\font127 }
+\DeclareFontShape{OML}{ablankml}{m}{it}{<->ablank-r-oml}{}
+\DeclareFontShape{OML}{ablankml}{b}{it}{<->ssub*ablankml/m/it}{}
+\DeclareFontShape{OML}{ablankml}{bx}{it}{<->ssub*ablankml/m/it}{}

@@ -1,0 +1,9 @@
+\DeclareFontFamily{L7x}{ablankr}{}
+\DeclareFontShape{L7x}{ablankr}{m}{n}{<->ablank-r-l7x}{}
+\DeclareFontShape{L7x}{ablankr}{m}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{L7x}{ablankr}{m}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{L7x}{ablankr}{m}{sc}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{L7x}{ablankr}{bx}{n}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{L7x}{ablankr}{bx}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{L7x}{ablankr}{bx}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{L7x}{ablankr}{bx}{sc}{<->ssub*ablankr/m/n}{}

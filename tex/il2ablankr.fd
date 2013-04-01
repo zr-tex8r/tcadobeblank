@@ -1,0 +1,9 @@
+\DeclareFontFamily{IL2}{ablankr}{}
+\DeclareFontShape{IL2}{ablankr}{m}{n}{<->ablank-r-il2}{}
+\DeclareFontShape{IL2}{ablankr}{m}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{IL2}{ablankr}{m}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{IL2}{ablankr}{m}{sc}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{IL2}{ablankr}{bx}{n}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{IL2}{ablankr}{bx}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{IL2}{ablankr}{bx}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{IL2}{ablankr}{bx}{sc}{<->ssub*ablankr/m/n}{}

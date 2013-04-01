@@ -1,0 +1,4 @@
+\DeclareFontFamily{OMX}{ablankmx}{}
+\DeclareFontShape{OMX}{ablankmx}{m}{n}{<->ablank-r-omx}{}
+\DeclareFontShape{OMX}{ablankmx}{b}{n}{<->ssub*ablankmx/m/n}{}
+\DeclareFontShape{OMX}{ablankmx}{bx}{n}{<->ssub*ablankmx/m/n}{}

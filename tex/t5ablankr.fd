@@ -1,0 +1,9 @@
+\DeclareFontFamily{T5}{ablankr}{}
+\DeclareFontShape{T5}{ablankr}{m}{n}{<->ablank-r-t5}{}
+\DeclareFontShape{T5}{ablankr}{m}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T5}{ablankr}{m}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T5}{ablankr}{m}{sc}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T5}{ablankr}{bx}{n}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T5}{ablankr}{bx}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T5}{ablankr}{bx}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{T5}{ablankr}{bx}{sc}{<->ssub*ablankr/m/n}{}

@@ -1,0 +1,9 @@
+\DeclareFontFamily{QX}{ablanks}{}
+\DeclareFontShape{QX}{ablanks}{m}{n}{<->ablank-r-qx}{}
+\DeclareFontShape{QX}{ablanks}{m}{it}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{QX}{ablanks}{m}{sl}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{QX}{ablanks}{m}{sc}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{QX}{ablanks}{bx}{n}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{QX}{ablanks}{bx}{it}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{QX}{ablanks}{bx}{sl}{<->ssub*ablanks/m/n}{}
+\DeclareFontShape{QX}{ablanks}{bx}{sc}{<->ssub*ablanks/m/n}{}

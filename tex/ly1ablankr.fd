@@ -1,0 +1,9 @@
+\DeclareFontFamily{LY1}{ablankr}{}
+\DeclareFontShape{LY1}{ablankr}{m}{n}{<->ablank-r-ly1}{}
+\DeclareFontShape{LY1}{ablankr}{m}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{LY1}{ablankr}{m}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{LY1}{ablankr}{m}{sc}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{LY1}{ablankr}{bx}{n}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{LY1}{ablankr}{bx}{it}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{LY1}{ablankr}{bx}{sl}{<->ssub*ablankr/m/n}{}
+\DeclareFontShape{LY1}{ablankr}{bx}{sc}{<->ssub*ablankr/m/n}{}
